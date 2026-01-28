@@ -1,0 +1,20 @@
+{
+  "name": "CW360 Market Index",
+  "symbol": "CW360-MKT",
+  "description": "CW360 is a diversified on-chain market index token representing a basket of curated crypto assets.",
+  "image": "https://crowdwisdom.live/wp-content/themes/cream-magazine-pro-v2.2.1/portfolio/user-photo/portfolio_2024-09-25-11-46-29.webp",
+  "external_url": "https://investing.crowdwisdom.live/",
+  "attributes": [
+    { "trait_type": "Category", "value": "Market Index" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://crowdwisdom.live/wp-content/themes/cream-magazine-pro-v2.2.1/portfolio/user-photo/portfolio_2024-09-25-11-46-29.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image"
+  }
+}
