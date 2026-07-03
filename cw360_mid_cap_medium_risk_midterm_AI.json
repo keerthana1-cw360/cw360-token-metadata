@@ -1,0 +1,36 @@
+{
+  "name": "CW360 Mid Cap Medium Risk Midterm AI Portfolio",
+  "symbol": "CW360-MCMR",
+  "description": "The CW360 Mid Cap Medium Risk Midterm AI Portfolio is an on-chain index token providing diversified exposure to carefully selected mid-cap cryptocurrencies with a medium risk profile. The portfolio is actively managed using CrowdWisdom.live's AI-driven investment methodology and periodic rebalancing.",
+  "uri": "https://cdn.jsdelivr.net/gh/keerthana1-cw360/cw360-token-metadata/cw360_mid_cap_medium_risk_midterm_AI.json",
+  "image": "https://crowdwisdom.live/wp-content/themes/cream-magazine-pro-v2.2.1/portfolio/user-photo/portfolio_2024-09-25-11-46-29.webp",
+  "external_url": "https://investing.crowdwisdom.live/",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Mid Cap AI Portfolio"
+    },
+    {
+      "trait_type": "Risk",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Investment Horizon",
+      "value": "Mid Term"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://crowdwisdom.live/wp-content/themes/cream-magazine-pro-v2.2.1/portfolio/user-photo/portfolio_2024-09-25-11-46-29.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image"
+  }
+}
